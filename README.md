@@ -1,5 +1,6 @@
-<h2> Привет, меня зовут Альбина! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm1vZ2pqbzdjZTF2NWVxZGI5cHpraDM3YmllNnQ5Z2R0MXNhbG9pNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bg283WKwSbH3i/giphy.gif" width="30"></h2>
- 👨‍💻 Обо мне:
+# Привет, меня зовут Альбина! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm1vZ2pqbzdjZTF2NWVxZGI5cHpraDM3YmllNnQ5Z2R0MXNhbG9pNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bg283WKwSbH3i/giphy.gif" width="30"/>&nbsp;&nbsp;
+---
+###👨‍💻 Обо мне:
 Я начинающий тестировщик. Мне нравится профессионально расти и становится лучше с каждым днем.
 
 
