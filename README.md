@@ -18,8 +18,7 @@
     </a>
   </div>
 ---
-
-#### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWx3Mjkyc3lpdThodXI0c3Zlb3ZwcmNzazVhMXlhamYwdzZjbTZzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sUvXqhA9nukbIM0MyO/giphy.gif" width="30" />&nbsp;&nbsp; Тестовая документация:
+#### <img src="https://media.giphy.com/media/3FvaG9XbBRbLtdaUUP/giphy.gif" width="30" />&nbsp;&nbsp; Тестовая документация:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="30" height="30"/>&nbsp
