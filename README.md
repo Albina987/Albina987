@@ -2,7 +2,7 @@
 ---
 ### <img src="https://media.giphy.com/media/STroE7bTBLTzxQUrZc/giphy.gif" width="40" />&nbsp;&nbsp; Обо мне:
 
-Я начинающий тестировщик. <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJ1ZWl5c2N0ZngzZTZ3MHl0NXpjcTJwM3N3NWxkbXBwa2wzN3JnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TEiaISogqJgrEuocni/giphy.gif" width="40" />&nbsp;&nbsp; Освоила курсы тестировщик с нуля на Stepik. Познала все основы тестирования и проходила практику. До этого работала на крайнем севере техником пто. Постоянное совершенствование моих навыков для меня приоритетно. Я ищу компанию, в которой смогу расти профессионально и становится лучше с каждым днем. 
+Я начинающий тестировщик <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJ1ZWl5c2N0ZngzZTZ3MHl0NXpjcTJwM3N3NWxkbXBwa2wzN3JnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TEiaISogqJgrEuocni/giphy.gif" width="40" />&nbsp;&nbsp; .Освоила курсы тестировщик с нуля на Stepik. Познала все основы тестирования и проходила практику. До этого работала на крайнем севере техником пто. Постоянное совершенствование моих навыков для меня приоритетно. Я ищу компанию, в которой смогу расти профессионально и становится лучше с каждым днем. 
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGIzdWV6dDg4cTUxejV2bGFzY2MxaDd0Zjdyb2k3bzltd3lqdXo4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="500" height="200"/>
