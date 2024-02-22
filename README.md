@@ -1,15 +1,14 @@
 # Привет, меня зовут Альбина! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm1vZ2pqbzdjZTF2NWVxZGI5cHpraDM3YmllNnQ5Z2R0MXNhbG9pNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bg283WKwSbH3i/giphy.gif" width="30"/>&nbsp;&nbsp;
 ---
-###<img src="https://media.giphy.com/media/STroE7bTBLTzxQUrZc/giphy.gif" width="40" />&nbsp;&nbsp; Обо мне:
+<img src="https://media.giphy.com/media/STroE7bTBLTzxQUrZc/giphy.gif" width="40" />&nbsp;&nbsp; Обо мне:
 
 Я начинающий тестировщик. Мне нравится профессионально расти и становится лучше с каждым днем.
-
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGIzdWV6dDg4cTUxejV2bGFzY2MxaDd0Zjdyb2k3bzltd3lqdXo4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="500" height="200"/>
 </div>
 
-- 📫 Как связаться со мной: 
+- 📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-@albinaib444-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/in/albinaib444/) [![Mail Badge](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Mail&logoColor=white)](mailto:miss.400@mail.ru)
 ---
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Социальные сети:
 
