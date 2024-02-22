@@ -47,7 +47,7 @@
 
 ---
 
-#### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5renA0dWFic3N4M3dsaDJjMnJ3aDhmaDgxanAybXd6YTdlN2xkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WtVVE1MLlE8cU8dOKd/giphy.gif"width="30"/>&nbsp;&nbsp; Работа с данными:
+#### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5renA0dWFic3N4M3dsaDJjMnJ3aDhmaDgxanAybXd6YTdlN2xkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WtVVE1MLlE8cU8dOKd/giphy.gif" width="30" />&nbsp;&nbsp; Работа с данными:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
