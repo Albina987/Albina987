@@ -33,7 +33,7 @@
 ### 🛠 Тестирование веб-приложений:
 
 <div>
-  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/edge-dev-logo-icon.png" title="devtools" alt="devtools" width="30" height="30"/>&nbsp
+  <img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" title="devtools" alt="devtools" width="30" height="30"/>&nbsp
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="30" height="30"/>&nbsp
 </div>
 
