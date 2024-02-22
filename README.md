@@ -33,7 +33,7 @@
 ### 🛠 Тестирование веб-приложений:
 
 <div>
-  <img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" title="devtools" alt="devtools"/>&nbsp
+  <img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" title="devtools" alt="devtools" width="60" height="20""/>&nbsp
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="30" height="30"/>&nbsp
 </div>
 
