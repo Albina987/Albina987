@@ -10,16 +10,14 @@
 
 #### <img src="https://media.giphy.com/media/efUQrWLjbgji5u1Ove/giphy.gif" width="30" />&nbsp;&nbsp; Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-@albinaib444-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/in/albinaib444/) [![Mail Badge](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Mail&logoColor=white)](mailto:miss.400@mail.ru)
 ---
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Социальные сети:
-
+#### <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Социальные сети:
   <div id="badges">
     <a href="https://t.me/albinaib444" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30" height="30" alt="telegram" />
     </a>
   </div>
 ---
-#### <img src="https://media.giphy.com/media/3FvaG9XbBRbLtdaUUP/giphy.gif" width="30" />&nbsp;&nbsp; Тестовая документация:
-
+#### <img src="https://media.giphy.com/media/hvGa7Dztfs7GJMRkPM/giphy.gif" width="30" />&nbsp;&nbsp; Тестовая документация:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="30" height="30"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="30" height="30"/>&nbsp
