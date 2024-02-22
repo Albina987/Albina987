@@ -38,7 +38,7 @@
 
 ---
 
-#### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW92MXRrdGs2cGU4bnMwN2NqbjFoZHdnbzhjeTZzc3h0cGZwMm51NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/htvPpsP0fEFhTv7HHT/giphy.gif"width="30"/>&nbsp;&nbsp; Тестирование мобильных приложений:
+#### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW92MXRrdGs2cGU4bnMwN2NqbjFoZHdnbzhjeTZzc3h0cGZwMm51NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/htvPpsP0fEFhTv7HHT/giphy.gif"width="30" />&nbsp;&nbsp; Тестирование мобильных приложений:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
