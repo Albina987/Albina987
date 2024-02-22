@@ -20,7 +20,7 @@
 ---
 
 
-#### <img src="https://media.giphy.com/media/hvGa7Dztfs7GJMRkPM/giphy.gif" width="30" />&nbsp;&nbsp; Тестовая документация:
+#### <img src="https://media.giphy.com/media/JscA27pcDdfubFImYj/giphy.gif" width="30" />&nbsp;&nbsp; Тестовая документация:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="30" height="30"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="30" height="30"/>&nbsp
